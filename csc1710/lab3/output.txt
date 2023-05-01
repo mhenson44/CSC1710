@@ -1,0 +1,4 @@
+Enter value for v1: Enter value for v2: 
+v1 = 3 and v2 = 8
+Expression values are:
+e1 =  42, e2 =  33, e3 =  7 and e4 =  0
